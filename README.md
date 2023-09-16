@@ -15,6 +15,8 @@ Targeting high value customers based on customer demographics and attributes.
 In building this recommendation, we started with a PowerPoint presentation which outlined the approach which we will be taking.
 The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
+
+
 Task 3: Data Insights and Presentation
 Using visualisations to present insights
 Developed a dashboard using Tableau that displays the data summary and results of the analysis. Some of the focussed business context when presenting findings were:
